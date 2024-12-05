@@ -4,10 +4,18 @@
 > 이번 현장실습을 통해 개발실무를 경험하고 꿈에 한걸음 다가가기 위해 지원했습니다.
 
 ## 지식 및 경험
+![Static Badge](https://img.shields.io/badge/GIT-%23F05032?logo=git&logoColor=white)
+![Static Badge](https://img.shields.io/badge/GITHUB-%23181717?logo=github&logoColor=white)
+![Static Badge](https://img.shields.io/badge/UNITY-black?logo=unity)
+![Static Badge](https://img.shields.io/badge/BLENDER-%23E87D0D?logo=blender&logoColor=white)
+![Static Badge](https://img.shields.io/badge/ECLIPSE-%232C2255?logo=eclipseide&logoColor=white)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?logo=cplusplus&logoColor=white)
+![Static Badge](https://img.shields.io/badge/OA-gray)
 
 
 ## 활동내용
 2024년의 활동들입니다.
+
 ### 1. 졸업작품
 > Microsoft Hololens 2를 활용한 AR 음악 교육 프로그램 (졸업작품 팀프로젝트)  
 > - 작품명 : 햅틱 증강현실 기반 음악교육 콘텐츠와 햅틱 장치 개발  
@@ -23,4 +31,5 @@
 > Blender를 활용한 3D 모델링 기초 교육 수료
 > 기간 : 2024. 10. 31. ~ 2024. 11. 12. (2주)
 > 성과 : Isometric Room 모델링
+
 [상세 내용](link)
