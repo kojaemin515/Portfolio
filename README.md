@@ -29,7 +29,7 @@
 
 ### 2. Blender 교육 수료
 > Blender를 활용한 3D 모델링 기초 교육 수료  
-> 기간 : 2024. 10. 31. ~ 2024. 11. 12. (2주)  
-> 성과 : Isometric Room 모델링  
+> - 기간 : 2024. 10. 31. ~ 2024. 11. 12. (2주)  
+> - 성과 : Isometric Room 모델링  
 
 [상세 내용](https://github.com/kojaemin515/blender-certi)
