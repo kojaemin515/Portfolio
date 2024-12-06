@@ -32,4 +32,4 @@
 > 기간 : 2024. 10. 31. ~ 2024. 11. 12. (2주)
 > 성과 : Isometric Room 모델링
 
-[상세 내용](link)
+[상세 내용](https://github.com/kojaemin515/blender-certi)
